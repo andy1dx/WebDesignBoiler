@@ -1,0 +1,19 @@
+{
+  "name": "web_design",
+  "version": "1.0.0",
+  "description": "Web_design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andybit-okutama/WebDesignBoiler.git"
+  },
+  "author": "Andy william",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andybit-okutama/WebDesignBoiler/issues"
+  },
+  "homepage": "https://github.com/andybit-okutama/WebDesignBoiler#readme"
+}
